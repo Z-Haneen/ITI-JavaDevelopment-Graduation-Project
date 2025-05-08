@@ -1,3 +1,6 @@
 *.class
 target/
 *.png
+*.class
+target/
+*.png
